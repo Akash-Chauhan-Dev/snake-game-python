@@ -1,0 +1,5 @@
+# This help to install the dependencies:
+pygame==2.5.2
+
+# Generate it with bash : 
+# pip freeze > requirements.txt
