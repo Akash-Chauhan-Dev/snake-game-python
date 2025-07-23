@@ -25,7 +25,7 @@ A classic Snake Game built in Python using the Pygame library.
 
 ## 📂 Project Structure
 
-snake-game/
+snake-game-python/
 ├── SnakeGame
     └── main.py
     └── logo1.jpeg
