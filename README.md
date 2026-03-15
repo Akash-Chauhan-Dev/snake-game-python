@@ -25,22 +25,22 @@ A classic Snake Game built in Python using the Pygame library.
 
 ## 📂 Project Structure
 
-snake-game-python/
-├── SnakeGame
-    └── main.py
-    └── logo1.jpeg
-    └── logo1.jpeg
-    └── backimg1
-    └── backimg2
-    └── back.mp3
-    └── game_over.mp3
-    └── highscore.txt
-├── requirements.txt
-├── README.md
-├── assets/
-│   └── Welcome_SnakeGame.png
-    └── PlayGround_SnakeGame.png
-    └── GameOver_SnakeGame.png
+      snake-game-python/
+      ├── SnakeGame
+          └── main.py
+          └── logo1.jpeg
+          └── logo1.jpeg
+          └── backimg1
+          └── backimg2
+          └── back.mp3
+          └── game_over.mp3
+          └── highscore.txt
+      ├── requirements.txt
+      ├── README.md
+      ├── assets/
+      │   └── Welcome_SnakeGame.png
+          └── PlayGround_SnakeGame.png
+          └── GameOver_SnakeGame.png
 
 
 ## 🧠 What I Learned
