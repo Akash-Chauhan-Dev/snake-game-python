@@ -15,13 +15,16 @@ A classic Snake Game built in Python using the Pygame library.
 
 ## 🚀 How to Run
 1. Clone the repo  
-   `git clone https://github.com/Akash-Chauhan-Dev/snake-game-python`
+
+       git clone https://github.com/Akash-Chauhan-Dev/snake-game-python
 
 2. Install dependencies  
-   `pip install -r requirements.txt`
 
-3. Run the game  
-   `python main.py`
+       pip install -r requirements.txt
+
+4. Run the game  
+
+       python main.py
 
 ## 📂 Project Structure
 
